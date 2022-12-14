@@ -1,4 +1,4 @@
-package study.ch6.ReplaceConstructorswithCreationMethods;
+package study.ReplaceConstructorswithCreationMethods;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

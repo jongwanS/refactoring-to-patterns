@@ -1,4 +1,4 @@
-package study.ch6.ReplaceConstructorswithCreationMethods;
+package study.ReplaceConstructorswithCreationMethods;
 
 public class CapitalStrategyRCTl extends CapitalStrategy {
 }

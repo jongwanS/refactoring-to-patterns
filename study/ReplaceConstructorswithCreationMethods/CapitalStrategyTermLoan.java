@@ -1,4 +1,4 @@
-package study.ch6.ReplaceConstructorswithCreationMethods;
+package study.ReplaceConstructorswithCreationMethods;
 
 public class CapitalStrategyTermLoan extends CapitalStrategy {
 }

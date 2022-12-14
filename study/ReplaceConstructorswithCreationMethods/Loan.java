@@ -1,4 +1,4 @@
-package study.ch6.ReplaceConstructorswithCreationMethods;
+package study.ReplaceConstructorswithCreationMethods;
 
 import java.util.Date;
 
