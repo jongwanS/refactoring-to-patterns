@@ -20,3 +20,5 @@
 - 팩터리가 제공하는 생성 메서드의 용도를 명확히하여, 클라이언트가 원하는 종류의 객체를 쉽게얻을 수 있다.
 - 인터페이스에 대해 프로그래밍을 하게 된다.
 
+## Intoruce Polymorphic Creation with Factory Method
+#### 
